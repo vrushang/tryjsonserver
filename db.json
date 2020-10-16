@@ -1,0 +1,231 @@
+{
+  "CATAGORY1": [
+    {
+      "id": 0,
+      "name": "Elevation",
+      "image": "/assets/catagory/rsz_elevation.jpg",
+      "description": "Elevation tiles design are one of the most natural and modern tiles that proves to be a great option and a unique choice. Elevation tiles design is created with the sense of grandeur and they really offer zenith designs. Elevation tiles also known as rustic tiles are substitute to natural stone.",
+      "featured": true,
+      "gallery": [
+        {
+          "id": 0,
+          "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599",
+          "width": 4,
+          "height": 3,
+          "featured": true,
+          "category": [
+            "popular",
+            "recent"
+          ]
+        },
+        {
+          "id": 1,
+          "src": "https://source.unsplash.com/Dm-qxdynoEc/800x799",
+          "width": 1,
+          "height": 1,
+          "featured": true,
+          "category": [
+            "popular"
+          ]
+        },
+        {
+          "id": 2,
+          "src": "https://source.unsplash.com/qDkso9nvCg0/600x799",
+          "width": 3,
+          "height": 4,
+          "featured": true,
+          "category": [
+            "popular",
+            "recent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Elevation",
+      "image": "/assets/catagory/rsz_elevation.jpg",
+      "description": "Elevation tiles design are one of the most natural and modern tiles that proves to be a great option and a unique choice. Elevation tiles design is created with the sense of grandeur and they really offer zenith designs. Elevation tiles also known as rustic tiles are substitute to natural stone.",
+      "featured": true,
+      "gallery": [
+        {
+          "id": 0,
+          "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599",
+          "width": 4,
+          "height": 3,
+          "featured": true,
+          "category": [
+            "popular",
+            "recent"
+          ]
+        },
+        {
+          "id": 1,
+          "src": "https://source.unsplash.com/Dm-qxdynoEc/800x799",
+          "width": 1,
+          "height": 1,
+          "featured": true,
+          "category": [
+            "popular"
+          ]
+        },
+        {
+          "id": 2,
+          "src": "https://source.unsplash.com/qDkso9nvCg0/600x799",
+          "width": 3,
+          "height": 4,
+          "featured": true,
+          "category": [
+            "popular",
+            "recent"
+          ]
+        }
+      ]
+    }
+  ],
+  "CATAGORY2": [
+    {
+      "id": 0,
+      "name": "Elevation",
+      "image": "/assets/catagory/rsz_elevation.jpg",
+      "description": "Elevation tiles design are one of the most natural and modern tiles that proves to be a great option and a unique choice. Elevation tiles design is created with the sense of grandeur and they really offer zenith designs. Elevation tiles also known as rustic tiles are substitute to natural stone.",
+      "featured": true,
+      "gallery": [
+        {
+          "id": 0,
+          "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599",
+          "width": 4,
+          "height": 3,
+          "featured": true,
+          "category": [
+            "popular",
+            "recent"
+          ]
+        },
+        {
+          "id": 1,
+          "src": "https://source.unsplash.com/Dm-qxdynoEc/800x799",
+          "width": 1,
+          "height": 1,
+          "featured": true,
+          "category": [
+            "popular"
+          ]
+        },
+        {
+          "id": 2,
+          "src": "https://source.unsplash.com/qDkso9nvCg0/600x799",
+          "width": 3,
+          "height": 4,
+          "featured": true,
+          "category": [
+            "popular",
+            "recent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Elevation",
+      "image": "/assets/catagory/rsz_elevation.jpg",
+      "description": "Elevation tiles design are one of the most natural and modern tiles that proves to be a great option and a unique choice. Elevation tiles design is created with the sense of grandeur and they really offer zenith designs. Elevation tiles also known as rustic tiles are substitute to natural stone.",
+      "featured": true,
+      "gallery": [
+        {
+          "id": 0,
+          "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599",
+          "width": 4,
+          "height": 3,
+          "featured": true,
+          "category": [
+            "popular",
+            "recent"
+          ]
+        },
+        {
+          "id": 1,
+          "src": "https://source.unsplash.com/Dm-qxdynoEc/800x799",
+          "width": 1,
+          "height": 1,
+          "featured": true,
+          "category": [
+            "popular"
+          ]
+        },
+        {
+          "id": 2,
+          "src": "https://source.unsplash.com/qDkso9nvCg0/600x799",
+          "width": 3,
+          "height": 4,
+          "featured": true,
+          "category": [
+            "popular",
+            "recent"
+          ]
+        }
+      ]
+    }
+  ],
+  "SHOPDATA": [
+    {
+      "id": 0,
+      "name": "Quick Glance to the shop",
+      "image": "/assets/shops/Logo_Top_Brand.jpg",
+      "description": "Quick Glance to the shop",
+      "gallery": [
+        {
+          "id": 0,
+          "src": "/assets/shops_details/Company/1.jpg",
+          "width": 1,
+          "height": 2
+        },
+        {
+          "id": 1,
+          "src": "/assets/shops_details/Company/2.jpg",
+          "width": 3,
+          "height": 4
+        },
+        {
+          "id": 2,
+          "src": "/assets/shops_details/Company/3.jpg",
+          "width": 3,
+          "height": 4
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Included Brands",
+      "image": "/assets/shops/Logo_Top_Brand.jpg",
+      "description": "Included Brands",
+      "gallery": [
+        {
+          "id": 0,
+          "src": "/assets/shops_details/Company/1.jpg",
+          "width": 1,
+          "height": 2
+        },
+        {
+          "id": 1,
+          "src": "/assets/shops_details/Company/2.jpg",
+          "width": 3,
+          "height": 4
+        },
+        {
+          "id": 2,
+          "src": "/assets/shops_details/Company/3.jpg",
+          "width": 3,
+          "height": 4
+        }
+      ]
+    }
+  ],
+  "rating": {
+    "one": 0,
+    "two": 0,
+    "three": 0,
+    "four": 2,
+    "five": 1
+  }
+}
